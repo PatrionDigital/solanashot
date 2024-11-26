@@ -1,0 +1,17 @@
+{
+  "name": "solanashot",
+  "version": "1.0.0",
+  "description": "Node.js app to retrieve a snapshot of token holders from Solana blockchain",
+  "main": "solanashot.js",
+  "scripts": {
+    "run": "node solanashot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "solana",
+    "blockchain",
+    "snapshot"
+  ],
+  "author": "Patrick S. Davis",
+  "license": "MIT"
+}
